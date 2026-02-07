@@ -1,49 +1,67 @@
 # CAR-RENTAL-SYSTEM--C-programming-Language
 A console-based Car Rental Management System in C with booking, billing and receipt generation features.
- Car Rental System (C Project)
- Project Description
+🚗 Car Rental Management System (C Language Project)
+📌 Project Overview
 
-This is a simple Car Rental Management System written in C language.
-The program helps manage car rentals by allowing users to view available cars, rent cars, return cars, and maintain rental records.
+The Car Rental Management System is a console-based application developed in C programming language to automate basic car rental operations.
+This system allows users to check available cars, rent vehicles, return rented cars, and maintain simple rental records efficiently.
 
-It is a console-based project designed for learning file handling, structures, and basic programming logic in C.
+The project demonstrates fundamental programming concepts such as structures, file handling, functions, and menu-driven program design, making it suitable as an academic or beginner-level project.
 
- Problem Statement
+🎯 Problem Statement
 
-Manual car rental management can be time-consuming and error-prone.
-This project automates basic car rental operations such as booking, returning, and record management using a simple C program.
+Traditional or manual car rental management often leads to:
 
- Features
+Time-consuming record maintenance
 
-View available cars
+Risk of human errors
 
-Rent a car
+Difficulty tracking available vehicles
 
-Return rented car
+Lack of organized rental history
 
-Display rental records
+This project provides a simple automated solution to manage these operations digitally.
 
-Simple user-friendly menu system
+⭐ Key Features
 
-🛠 Tech Stack
+📋 View list of available cars
 
-Programming Language: C
+🚘 Rent a car with basic customer details
 
-Concepts Used:
+🔄 Return rented cars
 
-Structures
+🗂 Maintain rental records using file handling
 
-File Handling
+🖥 User-friendly menu-driven console interface
 
-Functions
+🛠 Technology Stack
 
-Conditional statements & loops
+Programming Language:
 
-▶ How to Run the Project
+C
 
-Install a C compiler (GCC / Turbo C / VS Code + GCC).
+Core Concepts Used:
 
-Download or clone the project files.
+Structures for data management
+
+File handling for persistent storage
+
+Functions for modular programming
+
+Conditional statements and loops
+
+Console-based user interface
+
+▶ How to Compile and Run
+Prerequisites
+
+GCC Compiler / Turbo C / VS Code with C setup
+
+Steps
+
+Download or clone the project repository.
+
+Open terminal/command prompt in project folder.
 
 Compile the code:
 
@@ -54,20 +72,34 @@ Run the program:
 
 ./car_rental
 
-📷 Output Preview
 
-(Console-based menu system showing rental options.)
+(Windows users may run car_rental.exe.)
 
-🚀 Future Improvements
+📊 Learning Outcomes
 
-GUI interface
+This project helps understand:
 
-Online booking integration
+Real-world problem modeling in C
 
-Database support
+File-based data storage
 
-Payment integration
+Menu-driven program logic
+
+Structured programming practices
+
+🚀 Possible Future Enhancements
+
+Graphical User Interface (GUI) version
+
+Database integration (MySQL/SQLite)
+
+Online booking functionality
+
+Payment gateway integration
+
+Enhanced validation and security
 
 👨‍💻 Author
 
 Harshal Patil
+First Year Engineering Student

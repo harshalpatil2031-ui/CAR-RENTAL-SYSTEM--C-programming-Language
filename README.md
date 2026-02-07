@@ -1,6 +1,4 @@
 # CAR-RENTAL-SYSTEM--C-programming-Language
-A console-based Car Rental Management System in C with booking, billing and receipt generation features.
-Car Rental System in C
 
 This project is a console based Car Rental Management System developed using the C programming language. The main objective of this project is to demonstrate fundamental programming concepts such as structures, file handling, conditional statements, loops, and user interaction through a menu driven interface. The system simulates a basic car rental service where users can book cars, manage vehicle availability, and generate rental receipts.
 

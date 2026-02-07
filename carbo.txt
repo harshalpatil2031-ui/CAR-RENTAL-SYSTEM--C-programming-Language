@@ -1,0 +1,5 @@
+customer id:1 customer mobile number:9923457788 car number:2 days:9 name:Harshal Patil
+customer id:2 customer mobile number:9821345678 car number:1 days:10 name:Divya Patil
+customer id:3 customer mobile number:6666677777 car number:0 days:5 name:Disha Patil
+customer id:4 customer mobile number:9999988888 car number:3 days:12 name:Chaitanya Patil
+customer id:5 customer mobile number:1234567891 car number:4 days:20 name:Devang Patil

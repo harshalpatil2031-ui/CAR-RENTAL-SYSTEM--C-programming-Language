@@ -1,0 +1,80 @@
+
+================= CAR RENT RECEIPT =================
+Date & Time     : Sat Feb 07 20:01:32 2026
+
+Customer ID     : 1
+Customer Name   : Harshal Patil
+Mobile Number   : 9923457788
+Car ID          : 2
+Car Name        : FERRARI
+Cost Per Day    : 8000
+Rented Days     : 9
+Actual Days     : 11
+Base Amount     : 72000
+Extra Charge    : 2000
+TOTAL AMOUNT    : 74000
+====================================================
+
+================= CAR RENT RECEIPT =================
+Date & Time     : Sat Feb 07 20:03:50 2026
+
+Customer ID     : 2
+Customer Name   : Divya Patil
+Mobile Number   : 9821345678
+Car ID          : 1
+Car Name        : MERCEDES
+Cost Per Day    : 9000
+Rented Days     : 10
+Actual Days     : 15
+Base Amount     : 90000
+Extra Charge    : 5000
+TOTAL AMOUNT    : 95000
+====================================================
+
+================= CAR RENT RECEIPT =================
+Date & Time     : Sat Feb 07 20:10:07 2026
+
+Customer ID     : 3
+Customer Name   : Disha Patil
+Mobile Number   : 6666677777
+Car ID          : 0
+Car Name        : MARUTI
+Cost Per Day    : 5000
+Rented Days     : 5
+Actual Days     : 5
+Base Amount     : 25000
+Extra Charge    : 0
+TOTAL AMOUNT    : 25000
+====================================================
+
+================= CAR RENT RECEIPT =================
+Date & Time     : Sat Feb 07 20:12:58 2026
+
+Customer ID     : 4
+Customer Name   : Chaitanya Patil
+Mobile Number   : 9999988888
+Car ID          : 3
+Car Name        : PORSCHE
+Cost Per Day    : 10000
+Rented Days     : 12
+Actual Days     : 20
+Base Amount     : 120000
+Extra Charge    : 8000
+TOTAL AMOUNT    : 128000
+====================================================
+
+================= CAR RENT RECEIPT =================
+Date & Time     : Sat Feb 07 20:16:23 2026
+
+Customer ID     : 5
+Customer Name   : Devang Patil
+Mobile Number   : 1234567891
+Car ID          : 4
+Car Name        : LAMBORGHINI
+Cost Per Day    : 7000
+Rented Days     : 20
+Actual Days     : 22
+Base Amount     : 140000
+Extra Charge    : 2000
+TOTAL AMOUNT    : 142000
+====================================================
